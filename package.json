@@ -1,0 +1,22 @@
+{
+  "name": "classes",
+  "version": "1.0.0",
+  "description": "原生 js 实现跨浏览器元素 class 类名操作",
+  "author": "vui-design",
+  "license": "ISC",
+  "main": "dist/classes.min.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "keywords": [
+    "classes",
+    "className",
+    "classList"
+  ],
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.3.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
